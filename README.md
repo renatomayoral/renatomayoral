@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own Projects
 - 🌱 I’m currently learning React
-- 📫 How to reach me: renatomayoral@alumni.usp.br
+- 📫 How to reach me: renatomayoral@gmail.com
 - ⚡ Fun fact: Love surfing 🏄 & Beach Tennis 🎾 
 
 <div>
